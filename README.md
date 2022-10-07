@@ -3,6 +3,8 @@
 
 [![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharane)](https://github.com/anuraghazra/github-readme-stats)
 
+[![@atharane's Holopin board](https://holopin.io/api/user/board?user=atharane)](https://holopin.io/@atharane)
+
 <!--
 **Atharane/Atharane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
