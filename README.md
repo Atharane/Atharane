@@ -2,7 +2,7 @@
 
 [![@atharane's Holopin board](https://holopin.io/api/user/board?user=atharane)](https://holopin.io/@atharane)
 
-A full-stack developer with proficiency in cloud computing and DevOps. Beyond my technical skills, I 💖 design.
+A full-stack developer with proficiency in cloud computing and DevOps.
 
 
 <!-- [![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharane)](https://github.com/anuraghazra/github-readme-stats) -->
