@@ -4,7 +4,7 @@
 
 [![atharane's GitHub | Dependencies](https://stats.quine.sh/atharane/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=atharane)
 
-[![atharane's GitHub | Stats](https://stats.quine.sh/atharane/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=atharane)
+<!-- [![atharane's GitHub | Stats](https://stats.quine.sh/atharane/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=atharane)n -->
 
 A full-stack developer with proficiency in cloud computing and DevOps.
 
