@@ -2,6 +2,8 @@
 
 [![@atharane's Holopin board](https://holopin.io/api/user/board?user=atharane)](https://holopin.io/@atharane)
 
+[![atharane's GitHub | Stats](https://stats.quine.sh/atharane/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=atharane)
+
 A full-stack developer with proficiency in cloud computing and DevOps.
 
 
