@@ -17,6 +17,6 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 Reach me @ atharvarane051102@gmail.com
+reach me @ atharvarane051102@gmail.com
 <!-- - ⚡ Fun fact: ... -->
 
